@@ -17,3 +17,7 @@ sudo unzip minecraft-server-spawn.zip
 sudo chmod 777 ./server-spawn.sh
 
 ./server-spawn.sh
+
+使い方説明
+
+https://youtu.be/9mwadgIVHMw
